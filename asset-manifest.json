@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MorpionReactApp/static/css/main.d12190b0.chunk.css",
-    "main.js": "/MorpionReactApp/static/js/main.cd637c05.chunk.js",
-    "main.js.map": "/MorpionReactApp/static/js/main.cd637c05.chunk.js.map",
-    "runtime-main.js": "/MorpionReactApp/static/js/runtime-main.c3ad000b.js",
-    "runtime-main.js.map": "/MorpionReactApp/static/js/runtime-main.c3ad000b.js.map",
-    "static/js/2.b75a87f9.chunk.js": "/MorpionReactApp/static/js/2.b75a87f9.chunk.js",
-    "static/js/2.b75a87f9.chunk.js.map": "/MorpionReactApp/static/js/2.b75a87f9.chunk.js.map",
-    "index.html": "/MorpionReactApp/index.html",
-    "precache-manifest.52a0b562b318561f50ccdc66e1b85c88.js": "/MorpionReactApp/precache-manifest.52a0b562b318561f50ccdc66e1b85c88.js",
-    "service-worker.js": "/MorpionReactApp/service-worker.js",
-    "static/css/main.d12190b0.chunk.css.map": "/MorpionReactApp/static/css/main.d12190b0.chunk.css.map"
+    "main.css": "/TicTacToe/static/css/main.d12190b0.chunk.css",
+    "main.js": "/TicTacToe/static/js/main.cd637c05.chunk.js",
+    "main.js.map": "/TicTacToe/static/js/main.cd637c05.chunk.js.map",
+    "runtime-main.js": "/TicTacToe/static/js/runtime-main.7021fc26.js",
+    "runtime-main.js.map": "/TicTacToe/static/js/runtime-main.7021fc26.js.map",
+    "static/js/2.b75a87f9.chunk.js": "/TicTacToe/static/js/2.b75a87f9.chunk.js",
+    "static/js/2.b75a87f9.chunk.js.map": "/TicTacToe/static/js/2.b75a87f9.chunk.js.map",
+    "index.html": "/TicTacToe/index.html",
+    "precache-manifest.2eb2c92ad1310d50eb397d1973b04f62.js": "/TicTacToe/precache-manifest.2eb2c92ad1310d50eb397d1973b04f62.js",
+    "service-worker.js": "/TicTacToe/service-worker.js",
+    "static/css/main.d12190b0.chunk.css.map": "/TicTacToe/static/css/main.d12190b0.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3ad000b.js",
+    "static/js/runtime-main.7021fc26.js",
     "static/js/2.b75a87f9.chunk.js",
     "static/css/main.d12190b0.chunk.css",
     "static/js/main.cd637c05.chunk.js"
