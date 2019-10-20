@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/CedricBardaine/MorpionReactApp/static/css/main.d12190b0.chunk.css",
-    "main.js": "/CedricBardaine/MorpionReactApp/static/js/main.cd637c05.chunk.js",
-    "main.js.map": "/CedricBardaine/MorpionReactApp/static/js/main.cd637c05.chunk.js.map",
-    "runtime-main.js": "/CedricBardaine/MorpionReactApp/static/js/runtime-main.9bf36f4f.js",
-    "runtime-main.js.map": "/CedricBardaine/MorpionReactApp/static/js/runtime-main.9bf36f4f.js.map",
-    "static/js/2.b75a87f9.chunk.js": "/CedricBardaine/MorpionReactApp/static/js/2.b75a87f9.chunk.js",
-    "static/js/2.b75a87f9.chunk.js.map": "/CedricBardaine/MorpionReactApp/static/js/2.b75a87f9.chunk.js.map",
-    "index.html": "/CedricBardaine/MorpionReactApp/index.html",
-    "precache-manifest.a39010f0308c46920808be5b0a923e2f.js": "/CedricBardaine/MorpionReactApp/precache-manifest.a39010f0308c46920808be5b0a923e2f.js",
-    "service-worker.js": "/CedricBardaine/MorpionReactApp/service-worker.js",
-    "static/css/main.d12190b0.chunk.css.map": "/CedricBardaine/MorpionReactApp/static/css/main.d12190b0.chunk.css.map"
+    "main.css": "/MorpionReactApp/static/css/main.d12190b0.chunk.css",
+    "main.js": "/MorpionReactApp/static/js/main.cd637c05.chunk.js",
+    "main.js.map": "/MorpionReactApp/static/js/main.cd637c05.chunk.js.map",
+    "runtime-main.js": "/MorpionReactApp/static/js/runtime-main.c3ad000b.js",
+    "runtime-main.js.map": "/MorpionReactApp/static/js/runtime-main.c3ad000b.js.map",
+    "static/js/2.b75a87f9.chunk.js": "/MorpionReactApp/static/js/2.b75a87f9.chunk.js",
+    "static/js/2.b75a87f9.chunk.js.map": "/MorpionReactApp/static/js/2.b75a87f9.chunk.js.map",
+    "index.html": "/MorpionReactApp/index.html",
+    "precache-manifest.52a0b562b318561f50ccdc66e1b85c88.js": "/MorpionReactApp/precache-manifest.52a0b562b318561f50ccdc66e1b85c88.js",
+    "service-worker.js": "/MorpionReactApp/service-worker.js",
+    "static/css/main.d12190b0.chunk.css.map": "/MorpionReactApp/static/css/main.d12190b0.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bf36f4f.js",
+    "static/js/runtime-main.c3ad000b.js",
     "static/js/2.b75a87f9.chunk.js",
     "static/css/main.d12190b0.chunk.css",
     "static/js/main.cd637c05.chunk.js"
